@@ -1,4 +1,4 @@
-package com.example;
+package com.funciones;
 
 public class Funciones {
     public static void main(String[] args) {
